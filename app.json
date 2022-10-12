@@ -1,7 +1,7 @@
 {
   "name": "Toxic-Alexa_V3",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/TURBOHYPER/Toxic-Alexa_V3",
+  "repository": "https://github.com/kakashibro69/Toxic-Alexa_V3",
   "logo": "https://telegra.ph/file/f2bd807ba0793444fbe09.jpg",
   "keywords": ["nodejs", "toxic-alexa_v3", "whatsapp bot", "whatsapp automation", "multi device"],
   "stack": "container",
@@ -25,12 +25,12 @@
 		"OWNER_NAME": {
 			"description": "Add the owner name here and if you want to use the default name then just leave it)",
 			"required": true,
-			"value": "TurboMods"
+			"value": "SPAWN"
 		},
 		"OWNER_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": "916380260672"
+			"value": "923059096620"
 		},
 		"AUTO_TYPING": {
 			"description": "Type true or false",
@@ -80,7 +80,7 @@
 		"REACT_EMOJI": {
 			"description": "Enter A Emoji For Menu React",
 			"required": true,
-			"value": "🇮🇳"
+			"value": "🇵🇰"
 		},
 		"OWNER_TAG": {
 			"description": "Enter Your Number For Owner Tag",
